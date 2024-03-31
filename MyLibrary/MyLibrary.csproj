@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<!-- NuGet package metadata -->
+		<PackageId>YourLibrary</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Parth Sharma</Authors>
+		<Company>YourCompany</Company>
+		<Product>YourLibrary</Product>
+		<Description>A .NET 7.0 class library for XYZ functionality.</Description>
+		<PackageTags>.NET;YourLibrary;Keywords</PackageTags>
+		<!-- Additional tags are separated by semicolons -->
+		<AssemblyName>YourLibrary</AssemblyName>
+		<RootNamespace>YourLibrary</RootNamespace>
+		<!-- Optional: if you want to sign your assembly -->
+		<!-- <SignAssembly>true</SignAssembly> -->
+		<!-- <AssemblyOriginatorKeyFile>YourKey.snk</AssemblyOriginatorKeyFile> -->
+		<RepositoryUrl>https://github.com/yourgithubusername/YourLibrary</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageProjectUrl>http://yourlibraryhomepage.com/</PackageProjectUrl>
+		<!-- Licensing information -->
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<!-- Use license expression for known licenses -->
+		<!-- <PackageLicenseFile>LICENSE.txt</PackageLicenseFile> -->
+		<!-- Use license file for custom licenses -->
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<!-- Whether the client must prompt the user to accept the package license -->
+		<!-- Publishing settings -->
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<!-- Include the repository URL in the nupkg's metadata -->
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<!-- Automatically run 'dotnet pack' on build -->
+		<!-- Other configurations -->
+		<!-- ... -->
+	</PropertyGroup>
+
+	<!-- Other elements and item groups -->
+
+</Project>

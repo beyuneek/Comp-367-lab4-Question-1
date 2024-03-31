@@ -1,0 +1,11 @@
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\bin\Debug\net7.0\MyLibrary.deps.json
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\bin\Debug\net7.0\MyLibrary.dll
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\bin\Debug\net7.0\MyLibrary.pdb
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.AssemblyInfo.cs
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.dll
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\refint\MyLibrary.dll
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\MyLibrary.pdb
+C:\Users\parth\OneDrive\Desktop\Centennial\Semester 6\COMP 367\Lab-4\MyLibrarySolution\MyLibrary\obj\Debug\net7.0\ref\MyLibrary.dll
